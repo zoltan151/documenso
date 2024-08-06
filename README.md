@@ -111,7 +111,7 @@ Want to get up and running quickly? Follow these steps:
 After forking the repository, clone it to your local device by using the following command:
 
 ```sh
-git clone https://github.com/<your-username>/documenso
+git clone https://github.com/zoltan151/documenso
 ```
 
 2. Set up your `.env` file using the recommendations in the `.env.example` file. Alternatively, just run `cp .env.example .env` to get started with our handpicked defaults.
@@ -150,7 +150,7 @@ Follow these steps to setup Documenso on your local machine:
 After forking the repository, clone it to your local device by using the following command:
 
 ```sh
-git clone https://github.com/<your-username>/documenso
+git clone https://github.com/zoltan151/documenso
 ```
 
 2. Run `npm i` in the root directory
@@ -220,7 +220,7 @@ We support a variety of deployment methods, and are actively working on adding m
 First, clone the code from Github:
 
 ```
-git clone https://github.com/documenso/documenso.git
+git clone https://github.com/zoltan151/documenso.git
 ```
 
 Then, inside the `documenso` folder, copy the example env file:
